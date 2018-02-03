@@ -1,2 +1,4 @@
 new Value
 changed0
+changed1
+changeUnstaged
