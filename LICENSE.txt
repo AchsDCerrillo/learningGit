@@ -2,3 +2,5 @@ new Value
 changed0
 changed1
 changeUnstaged
+change in testing branch
+newLineo
